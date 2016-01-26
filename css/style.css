@@ -1,4 +1,14 @@
-header, nav,footer,#colgauche {
+header, nav,footer, #colgauche {
   background-color: black;
   color:#fff;
+}
+
+#imagearriere{
+  z-index: -1;
+  position: relative;
+}
+
+.avant{
+  z-index: 1;
+  position: relative;
 }
