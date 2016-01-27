@@ -7,6 +7,10 @@ body {
   line-height: 2em;
 }
 
+.no-padding > [class="col-md-2"]{
+  padding-left: 0px;
+  padding-right: 0px;
+}
 /*header, nav,footer, #colgauche,#fondnoir {
   background-color: black;
 
@@ -53,7 +57,14 @@ li a{
 
 .form-control{
   padding: 0px;
+  background-color: inherit;
+  height: 1.75em;
 }
+
+.navbar-form{
+  padding-left: 0px;
+}
+
 #fondblanc{
   background-color: #fff;
   color:black;
