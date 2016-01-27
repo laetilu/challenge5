@@ -4,6 +4,7 @@ body {
   color:#fff;
   font-size: 1em;
   font-family: "Lato";
+  line-height: 2em;
 }
 
 /*header, nav,footer, #colgauche,#fondnoir {
@@ -32,7 +33,21 @@ ul{
   list-style-type: none;
 }
 
+li a{
+  color:#fff;
+}
+
 #navhaut{
   font-weight: bold;
   margin-top: 1.45em;
+}
+
+#navgauche li {
+  border-bottom: 0.1em solid #efefef;
+  border-style: groove;
+}
+#colgauche ul {
+  text-align: left;
+  padding-left: 0px;
+
 }
