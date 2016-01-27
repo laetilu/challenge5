@@ -3,7 +3,6 @@ body {
   background-color: black;
   color:#fff;
   font-size: 1em;
-  font-weight: lighter;
   font-family: "Lato";
 }
 
@@ -12,5 +11,28 @@ body {
 
 }*/
 h1 {
-  font-size: 0.5em;
+  font-size: 1.8em;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 1.4em;
+}
+
+h3 {
+  font-size: 1em;
+  font-weight: bold;
+}
+
+h5{
+  font-size: 1.1em;
+}
+
+ul{
+  list-style-type: none;
+}
+
+#navhaut{
+  font-weight: bold;
+  margin-top: 1.45em;
 }
