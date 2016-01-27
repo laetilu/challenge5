@@ -43,11 +43,16 @@ li a{
 }
 
 #navgauche li {
-  border-bottom: 0.1em solid #efefef;
-  border-style: groove;
+  border-bottom: 0.1em solid  #f8f8ff;
 }
+
 #colgauche ul {
   text-align: left;
   padding-left: 0px;
+}
 
+#fondblanc{
+  background-color: #fff;
+  color:black;
+  padding-top: 3em;
 }
