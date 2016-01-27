@@ -92,9 +92,20 @@ li a{
 
 .colonnedroite{
   border-top: 0.5em solid black;
-  /*padding-right: 2em;*/
+  margin-right: 2em;
+  line-height: normal;
+  padding-top: 0.75em;
 }
 
 .titrevert {
   color:#24890D;
+}
+
+.titredroite{
+  font-weight: bold;
+}
+
+#alacon{
+  width: 10em;
+  height: 23em;
 }
