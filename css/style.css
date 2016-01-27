@@ -2,20 +2,15 @@ body {
   max-width: 1300px;
   background-color: black;
   color:#fff;
+  font-size: 1em;
+  font-weight: lighter;
+  font-family: "Lato";
 }
 
 /*header, nav,footer, #colgauche,#fondnoir {
   background-color: black;
 
 }*/
-
-
-#imagearriere{
-  z-index: 1;
-  position: relative;
-}
-
-.avant{
-  z-index: 2;
-  position: relative;
+h1 {
+  font-size: 0.5em;
 }
