@@ -50,12 +50,18 @@ li a{
   border-bottom: 0.1em solid  #f8f8ff;
 }
 
+#navgauche li:hover{
+  background-color:#24890D;
+}
+
 #navgauche li a{
   margin-left: 1em;
 }
 
-.icone{
-  margin-right: 0.5em;
+.icone {
+ float: right;
+ margin-top: 0.5em;
+ margin-right: 2em;
 }
 
 #colgauche ul {
@@ -94,10 +100,9 @@ li a{
   padding-top: 3em;
 }
 
-
 #audiotheme{
   font-size: 3em;
-  font-weight:10;
+  font-weight:10em;
 }
 
 .colonnedroite{
@@ -113,6 +118,13 @@ li a{
 
 .titredroite{
   font-weight: bold;
+}
+
+.black{
+  color:#fff;
+  background-color: black;
+  padding: 0.5em;
+  margin-right: 0.5em;
 }
 
 #alacon{
