@@ -54,6 +54,10 @@ li a{
   margin-left: 1em;
 }
 
+.icone{
+  margin-right: 0.5em;
+}
+
 #colgauche ul {
   text-align: left;
   padding-left: 0px;
@@ -75,6 +79,12 @@ li a{
   margin-bottom: 4em;
 }
 
+.boutonloupe {
+  background-color:#24890D;
+  margin-left: 0.5em;
+  width:3em;
+  border: none;
+}
 #italique{
   font-style: italic;
 }
